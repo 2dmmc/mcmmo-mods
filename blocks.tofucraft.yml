@@ -1,0 +1,4 @@
+Herbalism:
+    TOFUCRAFT_SOYBEANS|7:
+        XP_Gain: 50
+        Double_Drops_Enabled: true

@@ -1,0 +1,4 @@
+Herbalism:
+    BAMBOOMOD_BEANPLANT|4:
+        XP_Gain: 50
+        Double_Drops_Enabled: true

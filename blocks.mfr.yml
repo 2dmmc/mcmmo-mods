@@ -1,0 +1,14 @@
+Woodcutting:
+    MINEFACTORYRELOADED_RUBBERWOODLOG|1:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
+        Is_Log: true
+    MINEFACTORYRELOADED_RUBBERWOODLOG|13:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
+        Is_Log: true
+    MINEFACTORYRELOADED_RUBBERWOODLEAVES|0:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
+        Is_Log: false
+

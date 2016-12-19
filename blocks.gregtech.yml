@@ -1,0 +1,6 @@
+Mining:
+    GREGTECH_GTBLOCKORES|0:
+        XP_Gain: 99
+        Double_Drops_Enabled: true
+        Is_Ore: true
+        Smelting_XP_Gain: 9

@@ -1,0 +1,20 @@
+Axes:
+    RAILCRAFT_TOOLSTEELAXE:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 4
+        Repairable: true
+        Repair_Material: IC2_ITEMINGOT
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 500
+Pickaxes:
+    RAILCRAFT_TOOLSTEELPICKAXE:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 4
+        Repairable: true
+        Repair_Material: IC2_ITEMINGOT
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 500

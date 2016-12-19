@@ -1,0 +1,57 @@
+Axes:
+    TOFUCRAFT_TOOLDIAMONDAXE:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 4
+        Repairable: true
+        Repair_Material: TOFUCRAFT_BLOCKTOFUDIAMOND
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 4626
+    TOFUCRAFT_TOOLMETALAXE:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 3
+        Repairable: true
+        Repair_Material: TOFUCRAFT_BLOCKTOFUMETAL
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 415
+Pickaxes:
+    TOFUCRAFT_TOOLDIAMONDPICKAXE:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 4
+        Repairable: true
+        Repair_Material: TOFUCRAFT_BLOCKTOFUDIAMOND
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 4626
+    TOFUCRAFT_TOOLMETALPICKAXE:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 3
+        Repairable: true
+        Repair_Material: TOFUCRAFT_BLOCKTOFUMETAL
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 415
+Shovels:
+    TOFUCRAFT_TOOLDIAMONDSHOVEL:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 4
+        Repairable: true
+        Repair_Material: TOFUCRAFT_BLOCKTOFUDIAMOND
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 4626
+    TOFUCRAFT_TOOLMETALSHOVEL:
+        XP_Modifer: 1.0
+        Ability_Enabled: true
+        Tier: 3
+        Repairable: true
+        Repair_Material: TOFUCRAFT_BLOCKTOFUMETAL
+        Repair_Material_Data_Value: 0
+        Repair_Material_Quantity: 9
+        Durability: 415

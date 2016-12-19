@@ -1,0 +1,13 @@
+Herbalism:
+    HARVESTCRAFT_PAMRASPBERRYCROP|0:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
+    HARVESTCRAFT_PAMZUCCHINICROP|7:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
+    HARVESTCRAFT_PAMSPICELEAFCROP|7:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
+    HARVESTCRAFT_PAMCANDLEBERRYCROP|7:
+        XP_Gain: 50
+        Double_Drops_Enabled: true
